@@ -1,0 +1,9 @@
+# =======================
+# To fix black screen
+# =======================
+xrandr --setprovideroutputsource modesetting NVIDIA-0
+xrandr --auto
+
+# =======================================
+# Add anything else here of your choosing
+# =======================================
